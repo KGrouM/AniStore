@@ -89,15 +89,15 @@ a.filled-button:hover {
 }
 
 .products-heading {
-	background-image: url(../images/products-heading.jpg);
+	background-image: url(../images/producs-banner.jpg);
 }
 
 .about-heading {
-	background-image: url(../images/about-heading.jpg);
+	background-image: url(../images/nosotros-banner.jpg);
 }
 
 .contact-heading {
-	background-image: url(../images/contact-heading.jpg);
+	background-image: url(../images/contactanos-banner.jpg);
 }
 
 .page-heading {
@@ -318,7 +318,7 @@ header .navbar {
 
 .banner-item-01 {
 	padding: 300px 0px;
-	background-image: url(../images/slide_01.jpg);
+	background-image: url(../images/slide-banner-1.png);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
